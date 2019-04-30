@@ -1,0 +1,15 @@
+{
+  "name": "LearningJavaScript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:cintiamh/LearningJavaScript.git",
+  "author": "cintiahigashi <cintiamh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^24.0.12",
+    "@types/node": "^11.13.8",
+    "@types/react": "^16.8.15",
+    "@types/react-dom": "^16.8.4",
+    "typescript": "^3.4.5"
+  }
+}
